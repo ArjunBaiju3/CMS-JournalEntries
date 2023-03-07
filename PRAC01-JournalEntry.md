@@ -9,9 +9,9 @@ I built a simple website with three pages using some complex and basic HTML and 
 
 ## Resources and Links
 
-https://www.w3schools.com/ for HTML, CSS, and JavaScript reference
-https://www.markdownguide.org/cheat-sheet/
-Youtube tutorials
+- https://www.w3schools.com/
+- https://www.markdownguide.org/cheat-sheet/
+- Youtube tutorials
 
 ## Estimated Hours
 
