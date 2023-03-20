@@ -1,10 +1,10 @@
-#Week 4 - Practical 3
+# Week 4 - Practical 3
 
-##Learning Activities
+## Learning Activities
 
 This week's practical task was to create my new Wordpress website and host it locally or online. I chose to do it online since it was my first time using WordPress and I wanted to get accustomed to this IDE. I made changes to the template and with the help of resources like WordPress documentation and YouTube tutorials. I watched some LinkedIn Learning courses in addition to the tutorials to expand my understanding of WordPress. It's  crucial to be familiar to best practises while dealing with WordPress themes, which would be valuable in project setting. 
 
-##Resources/Links:
+## Resources/Links:
 
 LinkedIn Course:
 https://www.lynda.com/WordPress-tutorials/WordPress-Essential-Training/372542-2.html 
@@ -16,11 +16,11 @@ https://www.youtube.com/watch?app=desktop&v=0zn2Xwhqfeg
 Wordpress links:
 https://blog.hubspot.com/marketing/wordpress-website
 
-##Estimated Hours
+## Estimated Hours
 
 I devoted 10 hours to learning WordPress fundamentals, with 6 hours spent on both LinkedIn courses and YouTube tutorials. Using the knowledge I acquired, I created a basic website which took me 4 hours to complete. As of now, my website is very simple.
 
-##Content Insights:
+## Content Insights:
 
 I found that selecting the appropriate theme for my website was the most challenging aspect since altering themes after adding content can negatively impact the site's optimization, as each theme has its unique features. However, I discovered child themes and learned more about their benefits. A child theme is an excellent way to personalize existing WordPress themes without making permanent changes to the original design. By creating a child theme, I could make modifications that would not be lost during updates to the primary theme. This approach proved to be an excellent method to familiarize myself with WordPress's features without needing to develop an entire theme from scratch.
 
@@ -32,7 +32,7 @@ During this week's virtual session, we conducted one-on-one interviews with our 
 
 Overall, these questions were instrumental in selecting suitable group members who had complementary skills, aligned interests, and a shared commitment to achieving success in the project. It was a positive outcome as everyone in the class was driven to excel, and we were able to prioritize the assessment around our existing commitments.
 
-##Career/Employability/Learning Insights
+## Career/Employability/Learning Insights
 
 Website designers have access to a useful tool in the form of child themes, which let them alter websites without altering the overall template design. Using child themes improves styling effectiveness and enables changes to be performed without worrying about losing them. I looked for extra learning materials to augment my practical experience and used LinkedIn Learning to deepen my comprehension of WordPress. I learned more about advanced CSS techniques that may be used to build more complex websites during the course.
 
