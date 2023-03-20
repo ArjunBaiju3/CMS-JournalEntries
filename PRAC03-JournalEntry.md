@@ -10,7 +10,9 @@ LinkedIn Course:
 https://www.lynda.com/WordPress-tutorials/WordPress-Essential-Training/372542-2.html 
 
 YouTube Tutorials:
+
 -https://www.youtube.com/watch?v=kYY88h5J86A
+
 -https://www.youtube.com/watch?app=desktop&v=0zn2Xwhqfeg
 
 Wordpress links:
