@@ -13,6 +13,7 @@ Videos:
 https://www.youtube.com/watch?v=iHjI37xhxcc&t=86s - Vagrant and AWS instance guide
 
 Documentation:
+
 https://blog.knoldus.com/how-to-configure-aws-ec2-instance-using-vagrant/ - Setting up AWS instance
 https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories - About Github Repositories
 https://trello.com/guide - Trello user guide
