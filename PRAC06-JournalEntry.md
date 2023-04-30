@@ -22,7 +22,9 @@ https://trello.com/guide - Trello user guide
 ## Estimated Hours
 
 This week I spent 2 hours helping my team trying to set up an AWS instance.
+
 30mins spent doing my designated mock up page of the website
+
 2 Hours researching into AWS and VVV.
 
 ## Content Insights:
