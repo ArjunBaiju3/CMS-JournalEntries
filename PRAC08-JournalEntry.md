@@ -16,7 +16,7 @@ https://www.themuse.com/advice/take-it-from-someone-who-hates-productivity-hacks
 
 YouTube Videos:
 
-[https://www.youtube.com/watch?v=FWTNMzK9vG4 -  Ted talk on procrasination
+https://www.youtube.com/watch?v=FWTNMzK9vG4 -  Ted talk on procrasination
 
 https://www.youtube.com/watch?v=arj7oStGLkU&t=287s - Ted talk on procrastination
 
