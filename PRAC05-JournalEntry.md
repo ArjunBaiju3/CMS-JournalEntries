@@ -1,4 +1,4 @@
-# Week 6 - Practical 4
+# Week 6 - Practical 5
 
 During the past week, I engaged with a range of resources to expand my knowledge of WordPress child themes. I made use of YouTube videos and consulted the WordPress documentation to understand the purpose and 
 role of child themes clearly. Additionally, I dedicated time to researching the broader concept of child themes, gaining valuable insights into their significance in website development and acquiring practical skills in 
