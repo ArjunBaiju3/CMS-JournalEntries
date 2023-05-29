@@ -12,7 +12,9 @@ of enhanced coding practices and increased efficiency. Additionally, my experien
 ## Resources/Links:
 
 -https://github.com/cp3402-students/project-team-01 (Team Github Repository)
+
 -W3Schools CSS
+
 -Learning Journal GitHub Guide
 
 ## Estimated Hours:
