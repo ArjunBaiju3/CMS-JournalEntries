@@ -1,10 +1,10 @@
-#Week 6 - Practical 4
+# Week 6 - Practical 4
 
 During the past week, I engaged with a range of resources to expand my knowledge of WordPress child themes. I made use of YouTube videos and consulted the WordPress documentation to understand the purpose and 
 role of child themes clearly. Additionally, I dedicated time to researching the broader concept of child themes, gaining valuable insights into their significance in website development and acquiring practical skills in 
 effectively managing them.
 
-##Resources/ Links:
+## Resources/ Links:
 
 - Learn JCU lecture recordings
 
@@ -14,20 +14,20 @@ effectively managing them.
 - https://www.youtube.com/watch?v=Wpc6FAsi7xI - Youtube video on child theme info 
 - https://www.youtube.com/watch?v=OTpwp_BIXMg - Youtube video on child them guide 
 
-##Estimated Hours:
+## Estimated Hours:
 
 I overall spent 5 hours learning and creating my WordPress child theme based on the twenty-twenty theme. 
 
 3 hours spent watching YouTube videos
 2 hours spent creating and editing my WordPress child theme
 
-##Content Insights:
+## Content Insights:
 
 Utilising WordPress child themes proved to be a valuable approach for enhancing my website's theme and functionality without modifying the core files of the parent theme. I used the standard twenty-twenty theme which is built 
 into WordPress to conduct this practical. This allowed me to easily incorporate custom CSS code, enabling substantial modifications to my site to improve the basic theme and customise it to my liking. Moreover, working with child 
 themes served as a beneficial introduction to PHP programming and significantly contributed to my understanding of the language.
 
-##Career/Employability/Learning Insights:
+## Career/Employability/Learning Insights:
 
 Through this practical, I realised the significance of child themes in website development, and it is evident that major companies consider them a standard practice for their websites.
 
